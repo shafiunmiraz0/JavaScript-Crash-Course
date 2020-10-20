@@ -1,6 +1,6 @@
 ![JavaScript-logo]()
 
-[![JavaScript](https://img.shields.io/badge/Java%20Programming-Language-2c93b0?style=for-the-badge)]()
+[![JavaScript](https://img.shields.io/badge/Java%20Programming-Language-9ead10?style=for-the-badge)]()
 
 
 Java is a class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.
