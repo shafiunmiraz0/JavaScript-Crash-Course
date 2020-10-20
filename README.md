@@ -1,4 +1,4 @@
-![JavaScript-logo]()
+![JavaScript-logo](https://github.com/shafiunmiraz0/JavaScript-Crash-Course/blob/main/Assets/JavaScript-Logo.png)
 
 [![JavaScript](https://img.shields.io/badge/Java%20Programming-Language-9ead10?style=for-the-badge)]()
 
