@@ -103,7 +103,7 @@ JavaScript, often abbreviated as JS, is a programming language that conforms to 
 
 🟠 [![JavaScript](https://img.shields.io/badge/Introduction%20of-Dates-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Dates%20and%20Unix-Timestamp%%20JavaScript-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Dates%20and%20Unix-Timestamp%20JavaScript-9ead10?style=flat)]()
 
 🟠 [![JavaScript](https://img.shields.io/badge/Date-Methods-9ead10?style=flat)]()
 
@@ -119,93 +119,94 @@ JavaScript, often abbreviated as JS, is a programming language that conforms to 
 
 🟠 [![JavaScript](https://img.shields.io/badge/Hoisting-in%20Practice-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Functions%20as-First%%20Citizens-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Functions%20as-First%20Citizens-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Memoization and Algorithms Optimization-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Default%20Parameters,-Rest%20Parameters,%%20Parameters-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Memoization-and%20Algorithms%20Optimization-9ead10?style=flat)]()
+
+🟠 [![JavaScript](https://img.shields.io/badge/Default%20Parameters,-Rest%20Parameters,%20Parameters-9ead10?style=flat)]()
 
 🟠 [![JavaScript](https://img.shields.io/badge/Introduction%20of-this-9ead10?style=flat)]()
 
 🟠 [![JavaScript](https://img.shields.io/badge/More-this-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Call and Apply-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Call%20and-Apply-9ead10?style=flat)]()
 
 🟠 [![JavaScript](https://img.shields.io/badge/Introduction%20of-bind-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Arrow Function-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Arrow-Function-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Creating Arrow Functions-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Creating-Arrow%20Functions-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/this with Arrow Functions-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/this%20with-Arrow%20Functions-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/this with Arrow Methods and Object Literals-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/this%20with%20Arrow-Methods%20and%20Object%20Literals-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/bind with Arrow Functions-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/bind%20with-Arrow%20Functions-9ead10?style=flat)]()
 
 🟠 [![JavaScript](https://img.shields.io/badge/Introduction%20of-Debugging-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Event Listener Breakpoints-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Event%20Listener-Breakpoints-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Exemptions (Throw, Catch, Finally)-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Exemptions-(Throw,%20Catch,%20Finally)-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Object Oriented JavaScript-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Object%20Oriented-JavaScript-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/ Creating a Constructor Function-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Creating%20a-Constructor%20Function-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Creating a Factory Function-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Creating%20a-Factory%20Function-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Creating Prototype Methods for Constructor Functions-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Creating%20Prototype-Methods%20for%20Constructor%20Functions-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Prototype Inheritance-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Prototype-0Inheritance-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Prototypes and Constructors -9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Prototypes%20and-Constructors-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Setting an Object Prototype Using Object.setPrototypeOf-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Setting%20an%20Object-Prototype%20Using%20Object.setPrototypeOf-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Override in Prototypal Inheritance-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Override%20in-Prototypal%20Inheritance-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/ Instance Properties vs Prototype Properties-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Instance%20Properties-vs%20Prototype%20Properties-9ead10?style=flat)]()
 
 🟠 [![JavaScript](https://img.shields.io/badge/Introduction%20of-Polymorphism-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Polymorphism Example 1-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Polymorphism-Example%201-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Polymorphism Example 2-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Polymorphism-Examplev2-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Check an Object for a Property Using in-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Check%20an%20Object-for%20a%20Property%20Using%20in-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/hasOwnProperty Method-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/hasOwnProperty-Method-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/How to Get an Array of Property Names from an Object-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/How%20to%20Get%20an-Array%20of%20Names%20from%20an%20Object-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Converting Object Literals to Constructors-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Converting%20Object-Literals%20to%20Constructors-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Setting Prototypes with Constructors-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Setting%20Prototypes-with%20Constructors-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/instance Operator-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/instance-Operator-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/HTML Essentials-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/HTML-Essentials-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/CSS Essentials-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/CSS-Essentials-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Introduction%20to- the DOM-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Introduction%20to-the%20DOM-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Working with DOM Children-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Working%20with-DOM%20Children-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/getElementsByTagName and getElementsByClassName-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/getElementsByTagName-and%20getElementsByClassName-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Node Types and Node Names-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Node%20Types-%20Node%20Names-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Text Node ChildNodes Explained-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Text%20Node-ChildNodes%20Explained-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/ Modifying nodeValue-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Modifying-nodeValue-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Practice with Event Listeners-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Practice%20with-Event%20Listeners-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Working with Attributes in the DOM-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Working%20with-Attributes%20in%20the%20DOM-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Dynamically Adding Nodes-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Dynamically-Adding%20Nodes-9ead10?style=flat)]()
 
 
 ### Features of JavaScript Programming Language
