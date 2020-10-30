@@ -11,119 +11,119 @@ JavaScript, often abbreviated as JS, is a programming language that conforms to 
 
 🟠 [![JavaScript](https://img.shields.io/badge/Hello-World-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Our First JavaScript Program-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Our%20First-JavaScript%20Program-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Manipulating HTML with JavaScript-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Manipulating%20HTML-with%20JavaScript-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Basic, Input, Output, Comments-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Basic,%20Input,-Output,%20Comments-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Application Architecture-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Application-Architecture-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Variables and Expressions-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Variables%20and-Expressions-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/IIFE, Scope, and Window Object-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/IIFE,%20Scope,-and%20Window%20Object-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Engines and Runtime Environments-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Engines%20and-Runtime%20Environments-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Global vs Local Variables-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Global%20vs-%20Variables-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Block Scoping-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Block-Scoping-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Primitives and Objects-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Primitives-and%20Objects-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Difference Between Primitives and Objects-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Difference%20Between-Primitives%20and%20Objects-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Number Data Type-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Number-Data%20Type-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Arithmetic Operators, Precedence, Associativity-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Arithmetic%20Operators,-Precedence,%20Associativity-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Increment, Decrement, and Assignment Operators-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Increment,%20Decrement,-and%20Assignment%20Operators-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/parseInt and parseFloat Methods-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/parseInt%20and-parseFloat%20Methods-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Converting Decimal Numbers to Binary, Octal, and Hexadecimal-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Converting%20Decimal%20Numbers%20to-Binary,%20Octal,%20and%20Hexadecimal-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Number Instance Methods and Math Object-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Number%20Instance-Methods%20and%20Math%20Object-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/String Data Type-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/String-Data%20Type-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/ String Methods-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/String-Methods-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/More String Methods-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/More-String%20Methods-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Functions and Objects-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Functions-and%20Objects-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/If, Else, Else If-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/If,-Else,%20Else%20If-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Benefit of Control Flow-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Benefit%20of-Control%20Flow-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Comparison Operators-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Comparison-Operators-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Logical Operators-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Logical-Operators-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Switch Statement-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Switch-Statement-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Single Line if Statement-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Single%20Line-if%20Statement-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Ternary Operator-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Ternary-Operator-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Intro to Loops-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Introdiction%20to-Loops-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Creating Loops-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Creating-Loops-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/ Loop Examples-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Loop-Examples-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Break and Continue-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Break-and%20Continue-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Nested Loops-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Nested-Loops-9ead10?style=flat)]()
 
 🟠 [![JavaScript](https://img.shields.io/badge/Introduction%20of-Arrays-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Introduction%20of-Multidimensional Arrays-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Introduction%20of-Multidimensional%20Arrays-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Using Arrays-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Using-Arrays-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Iterate Through Array Examples Search an Array-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Iterate%20Through%20Array-Examples%20Search%20an%20Array-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Average of Array Values-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Average%20of-Array%20Values-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Fill Array from User Input Indefinite Loop and Sentinel Value-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Fill%20Array%20from%20User-Input%20Indefinite%20Loop%20and%20Sentinel%20Value-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Array Methods Part 1-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Array%20Methods-Part%201-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Array Methods Part 2-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Array%20Methods-Part%202-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Array Methods Part 3-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Array%20Methods-Part%203-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/forEach Method Arrays-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/forEach-Method%20Arrays-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/ Iterate Multidimensional Array with for and forEach -9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Iterate%20Multidimensional-Array%20with%20for%20and%20forEach-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Label with Break and Continue -9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Label%20with%20Break-and%20Continue-9ead10?style=flat)]()
 
 🟠 [![JavaScript](https://img.shields.io/badge/Introduction%20of-Dates-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Using Dates and Unix Timestamp in JavaScript-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Dates%20and%20Unix-Timestamp%%20JavaScript-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Date Methods-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Date-Methods-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Intro to Functions - Functions Part 1-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Introduction%20to%20Functions-Functions%20Part%201-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Passing Arguments by Value - Functions Part 2-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Passing%20Arguments%20by%20Value-Functions%20Part%202-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Callback Functions - Functions Part 3-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Callback%20Functions-Functions%20Part%203-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Function Declarations and Expressions-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Function%20Declarations-and%20Expressions-9ead10?style=flat)]()
 
 🟠 [![JavaScript](https://img.shields.io/badge/Introduction%20of-Hoisting-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Hoisting in Practice-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Hoisting-in%20Practice-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/ Functions as First Class Citizens (Objects)-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Functions%20as-First%%20Citizens-9ead10?style=flat)]()
 
 🟠 [![JavaScript](https://img.shields.io/badge/Memoization and Algorithms Optimization-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Default Parameters, Rest Parameters, Implicit Parameters-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Default%20Parameters,-Rest%20Parameters,%%20Parameters-9ead10?style=flat)]()
 
 🟠 [![JavaScript](https://img.shields.io/badge/Introduction%20of-this-9ead10?style=flat)]()
 
