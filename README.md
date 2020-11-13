@@ -13,7 +13,7 @@ JavaScript, often abbreviated as JS, is a programming language that conforms to 
 
 🟠 [![JavaScript](https://img.shields.io/badge/Our%20First-JavaScript%20Program-9ead10?style=flat)]()
 
-🟠 [![JavaScript](https://img.shields.io/badge/Manipulating%20HTML-with%20JavaScript-9ead10?style=flat)]()
+🟠 [![JavaScript](https://img.shields.io/badge/Manipulating%20HTML-with%20JavaScript-9ead10?style=flat)](https://github.com/shafiunmiraz0/JavaScript-Crash-Course/tree/main/Manipulating%20HTML%20with%20JavaScript)
 
 🟠 [![JavaScript](https://img.shields.io/badge/Basic,%20Input,-Output,%20Comments-9ead10?style=flat)]()
 
